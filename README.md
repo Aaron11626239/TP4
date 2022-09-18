@@ -1,2 +1,3 @@
 # TP4
-for DTC 477 -- Tiny Project #4
+
+This is the README file for the Tiny Project #4 that I'm working on.
